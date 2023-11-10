@@ -211,8 +211,8 @@ func (content *Content) Update(ctx context.Context, info ctrcontent.Info, fieldp
 
 PR比较多也比较零散，主要PR分布在以下：
 
-https://github.com/goharbor/acceleration-service/pulls/PerseidMeteor
+[https://github.com/goharbor/acceleration-service/pulls/PerseidMeteor](https://github.com/goharbor/acceleration-service/pulls/PerseidMeteor)
 
-https://github.com/containerd/nydus-snapshotter/pulls/PerseidMeteor
+[https://github.com/containerd/nydus-snapshotter/pulls/PerseidMeteor](https://github.com/containerd/nydus-snapshotter/pulls/PerseidMeteor)
 
-https://github.com/dragonflyoss/nydus/pulls/PerseidMeteor
+[https://github.com/dragonflyoss/nydus/pulls/PerseidMeteor](https://github.com/dragonflyoss/nydus/pulls/PerseidMeteor)
