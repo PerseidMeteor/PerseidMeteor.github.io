@@ -2,6 +2,8 @@
 layout: post
 title: 2023 OSPP开源之夏Nydus&Acceld 远端缓存实现
 subtitle: Nydus 开源存储构建与分发支持
+gh-repo: dragonflyoss/nydus
+gh-badge: [star, fork, follow]
 cover-img: /assets/img/nydus/nydus-bg.jpg
 thumbnail-img: /assets/img/nydus/nydus-thumb.png
 share-img: /assets/img/nydus/nydus-bg.jpg
